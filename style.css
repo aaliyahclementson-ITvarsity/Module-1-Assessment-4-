@@ -1,0 +1,15 @@
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: double;
+    border-color: #982f19;
+    background-color: #ffecfb;
+    color: #87748c;
+}
+
+th{
+    font-weight: 800;
+    background-color: #fcbcef;
+    color: #ffffff;
+}
